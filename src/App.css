@@ -2,3 +2,9 @@
   box-sizing: border-box;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+#kutu1 {
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+}
