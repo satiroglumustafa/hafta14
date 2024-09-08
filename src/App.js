@@ -1,10 +1,15 @@
 
 import './App.css';
+import BaglantiKontrol from './components/BaglantiKontrol';
 
 function App() {
+
+ 
+
   return (
      <>
-      App 1
+      <BaglantiKontrol/>
+      App1
      </>
   );
 }
