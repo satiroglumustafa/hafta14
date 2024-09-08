@@ -1,10 +1,11 @@
 
 import './App.css';
+import ResponsiveComponent from './components/ResponsiveComponent';
 
 function App() {
   return (
      <>
-      App 1
+      <ResponsiveComponent />
      </>
   );
 }
